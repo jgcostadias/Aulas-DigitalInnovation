@@ -1,4 +1,4 @@
-
+AULA 1
 Gestão de Produto
 Este produto tem que estar alinhado à estratégia do negócio. A gestão de produto é responsável por fazer a conexão de todas as áreas da empresa
 
@@ -18,3 +18,16 @@ Como traçar o roadmap a partir da visão da empresa
 Métricas e agilidade
 
 Roadmap e Metodologia Ágil
+
+AULA 2
+
+O que é e porque a Lean Startup foi criada
+
+Princípios da Lean startup
+- Existem empreendedores em todos os lugares
+- Empreender significa administração
+- Valide o aprendizado
+- Construir-medir-aprender
+- Métricas e números para inovar
+
+A importância de se colocar no lugar do cliente
