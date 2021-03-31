@@ -1,0 +1,3 @@
+https://github.com/lucasrmagalhaes/desafios-DIO/tree/master/Desafios/C%20Sharp
+https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/C%23
+

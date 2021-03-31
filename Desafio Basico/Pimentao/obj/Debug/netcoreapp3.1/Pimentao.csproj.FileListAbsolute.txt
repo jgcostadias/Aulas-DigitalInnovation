@@ -1,0 +1,13 @@
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\bin\Debug\netcoreapp3.1\Pimentao.exe
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\bin\Debug\netcoreapp3.1\Pimentao.deps.json
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\bin\Debug\netcoreapp3.1\Pimentao.runtimeconfig.json
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\bin\Debug\netcoreapp3.1\Pimentao.runtimeconfig.dev.json
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\bin\Debug\netcoreapp3.1\Pimentao.dll
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\bin\Debug\netcoreapp3.1\Pimentao.pdb
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.csprojAssemblyReference.cache
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.AssemblyInfoInputs.cache
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.AssemblyInfo.cs
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.csproj.CoreCompileInputs.cache
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.dll
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.pdb
+H:\Workspace\Aulas-DigitalInnovation\Desafio Basico\Pimentao\obj\Debug\netcoreapp3.1\Pimentao.genruntimeconfig.cache
