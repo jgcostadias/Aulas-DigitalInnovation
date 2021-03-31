@@ -55,4 +55,8 @@ alter table Clientes add TipoPessoa float
 
 ALTER TABLE Clientes DROP COLUMN TipoPessoa
 
+select * from Clientes inner join Pedido on Clientes.Codigo = Pedido.Codigo
 
+select * from Clientes left join Pedido on Clientes.Codigo = Pedido.Codigo
+
+select * from Clientes right join Pedido on Clientes.Codigo = Pedido.Codigo
