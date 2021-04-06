@@ -1,0 +1,14 @@
+O que é o DDD (Domain Driven Design)
+práticas para desenhar um software baseado em um modelo de dominio.
+DDD é para sistemas complexos
+
+Conceitos
+Alinhar código com o negócio
+Favorecer utilização
+Minimo acoplamento
+Independencia de tecnologia
+
+MDD
+Modelo Design Dominio
+
+EPI? 
