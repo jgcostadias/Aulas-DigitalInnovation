@@ -1,0 +1,16 @@
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\DIO.bank.exe
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\DIO.bank.deps.json
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.json
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.dev.json
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\DIO.bank.dll
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\ref\DIO.bank.dll
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\bin\Debug\net5.0\DIO.bank.pdb
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.csprojAssemblyReference.cache
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfoInputs.cache
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfo.cs
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.CoreCompileInputs.cache
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.dll
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\ref\DIO.bank.dll
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.pdb
+H:\Workspace\Aulas-DigitalInnovation\Transferencia bancária\DIO.bank\obj\Debug\net5.0\DIO.bank.genruntimeconfig.cache
